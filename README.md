@@ -1,6 +1,6 @@
 ﻿# MERN Blog Project Part I
  
-**Placeholder** is a ecommerce web application that provides products for customers.
+**CodeCraft Blog** is a blog website that allows fellow programmers to create content and share it amongst other users.
 
 Time spent: **2.5** hours spent in total
 
@@ -16,7 +16,7 @@ The following **optional** features are implemented:
 
 - [x] User can click on brand to navigate to Home Page.
 - [x] Website is responsive and can be viewed on different devices.
-- [x] User can click on the logo to return to the Home Page.
+- [x] User can click on the logo to return to the Home Page. 
 
 ## Video Walkthrough:
 
