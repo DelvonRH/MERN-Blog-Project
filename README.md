@@ -22,7 +22,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='' title='Video Walkthrough' width='900px' alt='Video Walkthrough' />
+<img src='https://github.com/DelvonRH/MERN-Blog-Project/blob/main/CodeCraft%20Walkthroughs/navigation-walkthrough-codecraft.gif' title='Video Walkthrough' width='900px' alt='Video Walkthrough' />
+
+<img src='https://github.com/DelvonRH/MERN-Blog-Project/blob/main/CodeCraft%20Walkthroughs/navigation-walkthrough-codecraft-mobile.gif' title='Video Walkthrough' width='900px' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
