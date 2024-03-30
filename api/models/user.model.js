@@ -20,6 +20,7 @@ const userSchema = new mongoose.Schema(
   { timestamps: true }
 );
 
+//We name it User instead of Users because mongoDB adds the s for us.
 const User = mongoose.model("User", userSchema);
 
 export default User;
