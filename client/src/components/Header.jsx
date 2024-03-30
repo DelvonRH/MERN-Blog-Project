@@ -18,7 +18,7 @@ export default function Header() {
       <form action="">
         <TextInput
           type="text"
-          placeholder="search"
+          placeholder="Search"
           rightIcon={AiOutlineSearch}
           className="hidden lg:inline"
         />
@@ -31,7 +31,7 @@ export default function Header() {
           <FaMoon />
         </Button>
         <Link to="/sign-in">
-          <Button gradientDuoTone="purpleToBlue">Signn In</Button>
+          <Button gradientDuoTone="purpleToBlue" outline>Sign In</Button>
         </Link>
         <Navbar.Toggle />
       </div>
