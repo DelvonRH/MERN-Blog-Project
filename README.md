@@ -36,6 +36,7 @@ The majority of my time was dedicated to experimenting with Tailwind CSS. Conseq
 - [React Router](https://github.com/remix-run/react-router) - A lightweight, fully-featured routing library for the React JavaScript library
 - [Express.js](https://github.com/expressjs/express) - A minimal and flexible Node.js web application framework that provides a robust set of features to develop web and mobile applications.
 - [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss) - An open-source utility-first CSS framework that streamlines web development by offering a comprehensive set of pre-designed utility classes.
+- [Flowbite](https://github.com/themesberg/flowbite) -  an open-source CSS framework for building responsive and mobile-first websites quickly and easily.
 - [Vite](https://github.com/vitejs/vite) - An open-source build tool for modern web development, offering a fast development server and rapid build times.
 - [dotenv](https://github.com/motdotla/dotenv) - An open-source library for loading environment variables from a .env file into process.env in Node.js applications.
 - [Mongoose](https://github.com/Automattic/mongoose) - An open-source library for MongoDB and Node.js, offering a schema-based solution to simplify data modeling and interaction with MongoDB databases.
