@@ -38,3 +38,4 @@ The majority of my time was dedicated to experimenting with Tailwind CSS. Conseq
 - [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss) - An open-source utility-first CSS framework that streamlines web development by offering a comprehensive set of pre-designed utility classes.
 - [Vite](https://github.com/vitejs/vite) - An open-source build tool for modern web development, offering a fast development server and rapid build times.
 - [dotenv](https://github.com/motdotla/dotenv) - An open-source library for loading environment variables from a .env file into process.env in Node.js applications.
+- [Mongoose](https://github.com/Automattic/mongoose) - An open-source library for MongoDB and Node.js, offering a schema-based solution to simplify data modeling and interaction with MongoDB databases.
