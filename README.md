@@ -43,7 +43,7 @@ The majority of my time was dedicated to experimenting with Tailwind CSS. Conseq
 - [dotenv](https://github.com/motdotla/dotenv) - An open-source library for loading environment variables from a .env file into process.env in Node.js applications.
 - [Mongoose](https://github.com/Automattic/mongoose) - An open-source library for MongoDB and Node.js, offering a schema-based solution to simplify data modeling and interaction with MongoDB databases.
 
-﻿# MERN Blog Project - Part II
+﻿<h1> MERN Blog Project - Part II </h1>
  
 **CodeCraft Blog** is a blog website that allows fellow programmers to create content and share it amongst other users.
 
