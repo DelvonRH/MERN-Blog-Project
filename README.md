@@ -42,7 +42,7 @@ The majority of my time was dedicated to experimenting with Tailwind CSS. Conseq
 - [Vite](https://github.com/vitejs/vite) - An open-source build tool for modern web development, offering a fast development server and rapid build times.
 - [dotenv](https://github.com/motdotla/dotenv) - An open-source library for loading environment variables from a .env file into process.env in Node.js applications.
 - [Mongoose](https://github.com/Automattic/mongoose) - An open-source library for MongoDB and Node.js, offering a schema-based solution to simplify data modeling and interaction with MongoDB databases.
-
+<hr>
 ﻿<h1> MERN Blog Project - Part II </h1>
  
 **CodeCraft Blog** is a blog website that allows fellow programmers to create content and share it amongst other users.
