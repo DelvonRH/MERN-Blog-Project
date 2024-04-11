@@ -8,15 +8,16 @@ Time spent: **2.5** hours spent in total
 
 The following **required** functionality is completed:
 
-- [x] User can navigate to Home Page.
-- [x] User can navigate to About Page.
-- [x] User can navigate to Project Page.
+- [x] User can navigate to "Home" page.
+- [x] User can navigate to "About" page.
+- [x] User can navigate to "Project" page.
 
 The following **optional** features are implemented:
 
-- [x] User can click on brand to navigate to Home Page.
+- [x] User can click on brand to navigate to "Home" page.
 - [x] Website is responsive and can be viewed on different devices.
-- [x] User can click on the logo to return to the Home Page. 
+- [x] User can click on the logo to return to the "Home" page.
+
 
 ## Video Walkthrough:
 
@@ -54,19 +55,20 @@ Time spent: **10** hours spent in total
 
 The following **required** functionality is completed:
 
-- [x] User can navigate to Sign Up page.
-- [x] User can navigate to Sign In page. 
+- [x] User can navigate to "Sign Up" page.
+- [x] User can navigate to "Sign In" page. 
 - [x] User can sign up.
 - [x] User can sign in.
 - [x] User sign in persists.
 
 The following **optional** features are implemented:
 
+- [x] Added error alerts if user fails to login or sends empty data on sign up page. 
 - [x] User can click on moon icon to switch page to dark mode.
 - [x] Website is responsive and can be viewed on different devices.
 - [x] User can sign up using Oauth.
 - [x] User can sign in using Oauth.
-- [x] User information is displayed in the header. 
+- [x] User information is displayed in the header.
       
 ## Video Walkthrough:
 
