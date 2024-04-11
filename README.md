@@ -1,4 +1,4 @@
-﻿# MERN Blog Project Part I
+﻿# MERN Blog Project - Part I
  
 **CodeCraft Blog** is a blog website that allows fellow programmers to create content and share it amongst other users.
 
@@ -45,7 +45,7 @@ The majority of my time was dedicated to experimenting with Tailwind CSS. Conseq
   
 <hr>
 
-﻿# MERN Blog Project Part II
+﻿# MERN Blog Project - Part II
  
 **CodeCraft Blog** is a blog website that allows fellow programmers to create content and share it amongst other users.
 
