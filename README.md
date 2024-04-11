@@ -54,6 +54,8 @@ Time spent: **10** hours spent in total
 
 The following **required** functionality is completed:
 
+- [x] User can navigate to Sign Up page.
+- [x] User can navigate to Sign In page. 
 - [x] User can sign up.
 - [x] User can sign in.
 - [x] User sign in persists.
@@ -70,9 +72,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/DelvonRH/MERN-Blog-Project/blob/main/CodeCraft%20Walkthroughs/navigation-walkthrough-codecraft.gif' title='Video Walkthrough' width='900px' alt='Video Walkthrough' />
+<img src='' title='Video Walkthrough' width='900px' alt='Video Walkthrough' />
 
-<img src='https://github.com/DelvonRH/MERN-Blog-Project/blob/main/CodeCraft%20Walkthroughs/navigation-walkthrough-codecraft-mobile.gif' title='Video Walkthrough' width='900px' alt='Video Walkthrough' />
+<img src='' title='Video Walkthrough' width='900px' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
